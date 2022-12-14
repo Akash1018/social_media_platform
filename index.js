@@ -38,6 +38,10 @@ app.use('/api/unlike', unlike);
 app.use('/api/comment', comment);
 app.use('/api/all_posts', all_posts)
 
+app.get("/", (req, res) => {
+    res.send("started");
+ });
+
 module.exports = app.listen(process.env.PORT || 5000, () => {
     console.log(`Server running at ${process.env.PORT}`);
  });
