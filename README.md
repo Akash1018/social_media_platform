@@ -98,7 +98,7 @@ The Server will start running at the provided `Port number`.
 
 ## Hosted Link
 ```sh
-https://socail-media-platform.onrender.com/
+https://socail-media-platform.onrender.com
 ```
 ## Run the testcases
 ```sh
