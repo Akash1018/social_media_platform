@@ -19,7 +19,7 @@ router.post("/:id",auth, async (req,res) => {
                 res.status(403).send("you already follow this user")
             }
         }catch(err){
-            console.log(erro);
+            console.log(err);
         }
     }else{
         res.status(401).send("invalid")
