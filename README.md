@@ -16,7 +16,7 @@ A social media platform which supports features like getting a user profile, fol
 Following open source projects is used to create this API:
 
 - `Node.js` - evented I/O for the backend
-- `Express` - fast node.js network app framework [@tjholowaychuk]
+- `Express` - fast node.js network app framework
 - `MongoDB` - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 - `MongoDB Atlas` - Real time cloud database.
 
