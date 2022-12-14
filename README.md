@@ -54,7 +54,7 @@ Create a .env file in your root directory and add following variables in it.
 
 Start the server.
 ```sh
-node index.js
+npm start
 ```
 The Server will start running at the provided `Port number`.
 
